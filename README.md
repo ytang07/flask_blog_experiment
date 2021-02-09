@@ -4,17 +4,17 @@ Built in Python 3.9.1 and SQLlite
 
 Functionality:
 
-Create your own user profile
+- Create your own user profile
 
-Upload your pictures
+- Upload your pictures
 
-Create your own posts
+- Create your own posts
 
-Post pagination
+- Post pagination
 
-Edit/Delete posts
+- Edit/Delete posts
 
-Load posts by users
+- Load posts by users
 
 
 Based on Corey Schafer's Python Flask Blog
