@@ -1,4 +1,11 @@
-# flask_blog_experiment
-Flask Blog Experiment based on Corey Schafer's Flask Blog
+# Flask/SQL Blog
+All python files commented for English functional descriptions
+Built in Python 3.9.1 and SQLlite
 
-All python files commented for English translation
+Functionality:
+Create your own user profile
+Upload your pictures
+Create your own posts
+Post pagination
+Edit/Delete posts
+Load posts by users
